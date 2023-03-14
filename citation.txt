@@ -1,0 +1,8 @@
+@article{REPO-366,
+    author = "Nie, Feiping and Wu, Danyang and Wang, Rong and Li, Xuelong",
+    journal = "IEEE transactions on neural networks and learning systems",
+    number = "9",
+    title = "{Self-Weighted Clustering With Adaptive Neighbors}",
+    volume = "31",
+    year = "2020"
+}
