@@ -1,4 +1,4 @@
-@article{REPO-366,
+@article{REPO-365,
     author = "Nie, Feiping and Wu, Danyang and Wang, Rong and Li, Xuelong",
     journal = "IEEE transactions on neural networks and learning systems",
     number = "9",
